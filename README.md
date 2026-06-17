@@ -37,18 +37,21 @@ i enjoy learning new ai technologies, building projects, exploring innovative so
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=nimeshchauhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=nimeshchauhan&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshchauhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=nimeshchauhan&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NIMESH-CREATOR&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=NIMESH-CREATOR&theme=dark)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=NIMESH-CREATOR&show_icons=true&theme=dark)
+
+## 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIMESH-CREATOR&layout=compact&theme=dark)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
